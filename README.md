@@ -46,5 +46,7 @@ Architecture Logic
 cpu-architecture-simulator/
 │
 ├── index.html # Entry point (loads React & Plotly)
+
 ├── CPUArchitectureSimulator.js # Main React component
+
 └── README.md # Project documentation
